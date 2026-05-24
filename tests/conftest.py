@@ -1,12 +1,6 @@
-# -*- coding: utf-8 -*-
-#
-# This file is part of PyNPM
-# Copyright (C) 2017 CERN.
-# Copyright (C) 2023 Rambaud Pierrick.
-#
-# PyNPM is free software; you can redistribute it and/or modify
-# it under the terms of the Revised BSD License; see LICENSE file for
-# more details.
+# SPDX-FileCopyrightText: 2017 CERN.
+# SPDX-FileCopyrightText: 2023 Rambaud Pierrick.
+# SPDX-License-Identifier: BSD-3-Clause
 
 """Pytest configuration."""
 
